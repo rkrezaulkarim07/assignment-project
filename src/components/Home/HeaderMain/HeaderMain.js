@@ -10,7 +10,7 @@ const HeaderMain = () => {
         <div>
             <div className="row d-flex">
                 <div className="col-md-6 text-center m-auto">
-                    <h1>Lorem ipsum dolor sit amet.</h1>
+                    <h1>We are providing the best <br /> service to our clients.</h1>
                     <h5>Lorem ipsum dolor sit, amet
                     <Typical steps={['ipsum dolor sit amet.', 'Lorem ipsum dolor sit amet.', 'ipsum dolor sit amet.']}
                             loop={Infinity}

@@ -5,7 +5,8 @@ const Navbar = () => {
         <div>
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container-fluid">
-                    <a class="navbar-brand ms-5" href="#">Navbar</a>
+                    <img style={{ width: '50px' }} className="ms-5" src="https://i.ibb.co/5Tk2GhN/repair.png" alt="" />
+                    <h1>Phone Repair</h1>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
